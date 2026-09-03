@@ -1,0 +1,27 @@
+id: IEA9B747E
+initial_creation_type: ebook
+source_metadata:
+  id: RDI-KK-36
+  title: དྭགས་བརྒྱུད་སྒྲུབ་པའི་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས། །
+  author: མཛད་པ་པོ། ཏཱ་ར་ནཱ་ཐ།
+  authors: &id001
+  - མཛད་པ་པོ། ཏཱ་ར་ནཱ་ཐ།
+  sku: RDI-KK-36
+  cover: RDI-KK-36.jpeg
+  volume: {}
+ebook_metadata:
+  title: དྭགས་བརྒྱུད་སྒྲུབ་པའི་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས། །
+  authors: *id001
+  sku: RDI-KK-36
+  cover: RDI-KK-36.jpeg
+layers:
+- Author
+- BookNumber
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Footnote
+- Sabche
+- Tsawa
+- Yigchung
