@@ -1,10 +1,10 @@
-id: 9d02340ece844dc6afdc684f71f73d31
+id: 0c66f3d12af54be9b884e4b4ba342ad4
 annotation_type: Author
 revision: '00001'
 annotations:
-  68d7ee7300d54f5aaf1f5d3d3b91fbff:
+  dcb43cd79df5401c8993b0377f700352:
     span:
       start: 149
       end: 168
 local_ids:
-  68d7ee7300d54f5aaf1f5d3d3b91fbff: 200000
+  dcb43cd79df5401c8993b0377f700352: 200000

@@ -1,17 +1,17 @@
-id: b6b61e152feb4348849f3cae3463de5c
+id: 5dd8b6d1a98a4fc7b82764538d50bf5e
 annotation_type: Tsawa
 revision: '00001'
 annotations:
-  faf5c3ba52b343ce8185c0d8a3544b96:
+  ef94bbd487964128b392c1a56ffb7fb6:
     span:
       start: 18773
       end: 18904
     isverse: false
-  27a1fe1095a74c6e95c73ecf38fb1520:
+  7c58b46767004d0a9adacdb0f0ea2226:
     span:
       start: 18909
       end: 18962
     isverse: false
 local_ids:
-  faf5c3ba52b343ce8185c0d8a3544b96: 200000
-  27a1fe1095a74c6e95c73ecf38fb1520: 200001
+  ef94bbd487964128b392c1a56ffb7fb6: 200000
+  7c58b46767004d0a9adacdb0f0ea2226: 200001
